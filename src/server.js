@@ -3,7 +3,7 @@ const fs = require('fs')
 const path = require('path')
 
 const ROOT = path.dirname(require.main.filename) + "\\..\\"
-const BASE_HTML_FILE = 'home.html'
+const BASE_HTML_FILE = '/public/pages/home.html'
 const HOSTNAME = '127.0.0.1'
 const PORT = process.env.PORT || 3000
 
