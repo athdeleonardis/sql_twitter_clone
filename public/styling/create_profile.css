@@ -1,0 +1,36 @@
+div.create-profile.wrapper {
+    margin-top: 33%;
+}
+
+h1.create-profile {
+    text-align: center;
+}
+
+form.create-profile {
+    margin: 0;
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+label.create-profile {
+    display: block;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+input.create-profile {
+    padding: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    width: 33%;
+}
+
+input.create-profile.submit {
+    margin-top: 3%;
+    width: 20%;
+}

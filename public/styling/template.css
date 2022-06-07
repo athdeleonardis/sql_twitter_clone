@@ -1,0 +1,30 @@
+.split {
+    width: calc(100% / 3);
+    height: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.left {
+    left: 0;
+}
+
+.middle {
+    left: calc(100% / 3)
+}
+
+.right {
+    right: 0;
+}
+
+header {
+    background-color: blue;
+}
+
+main {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: blue;
+}
