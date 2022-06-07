@@ -23,7 +23,7 @@ I recommend `MySQL Community Server` to host the database, and `MySQL Workbench`
 1. Modify `src/create_database.js` to contain the relevent MySQL host, user and password.
 2. Run `node src/create_database.js` to fully build the database.
 
-# Start the server
+## Start the server
 
 1. Run `node src/server.js`. Currently only runs on localhost.
 
